@@ -1,0 +1,12 @@
+secrets.yaml
+.storage/
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.log.*
+home-assistant_v2.db*
+deps/
+tts/
+.cloud/
+SERVICE_ACCOUNT.JSON
